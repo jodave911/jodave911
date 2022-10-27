@@ -2,7 +2,7 @@
 
 I'm currently working on basic c and java programs.
 
-- ~~Star pyrmid~~ ✅
+- > ~~Star pyrmid~~ ✅
 - ~~Fibannocci series~~ ✅
 - ~~Palindrome~~ ✅
 - ~~Frequency~~ ✅
