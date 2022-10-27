@@ -6,7 +6,6 @@ I'm currently working on basic c and java programs.
 - > ~~Fibannocci series~~ ✅
 - > ~~Palindrome~~ ✅
 - > ~~Frequency~~ ✅
-- > ~~Frequency~~ ✅
 - > ~~Matrix multiplication~~ ✅
 - > ~~Sorting~~ ✅
 - > ~~Banking~~ ✅
