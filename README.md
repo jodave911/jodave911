@@ -3,14 +3,15 @@
 I'm currently working on basic c and java programs.
 
 - > ~~Star pyrmid~~ ✅
-- ~~Fibannocci series~~ ✅
-- ~~Palindrome~~ ✅
-- ~~Frequency~~ ✅
-- ~~Matrix multiplication~~ ✅
-- ~~Sorting~~ ✅
-- ~~Banking~~ ✅
+- > ~~Fibannocci series~~ ✅
+- > ~~Palindrome~~ ✅
+- > ~~Frequency~~ ✅
+- > ~~Frequency~~ ✅
+- > ~~Matrix multiplication~~ ✅
+- > ~~Sorting~~ ✅
+- > ~~Banking~~ ✅
 - Employee
-- ~~Method overloading~~ ✅
+- > ~~Method overloading~~ ✅
 
 
 
