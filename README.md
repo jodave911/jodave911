@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-I'm currently working on basic c programs.
+I'm currently working on basic c and java programs.
+
+✅~~Star pyrmid~~
+✅~~Fibannocci series~~
+✅~~Palindrome~~
+✅~~Frequency~~
+✅~~Matrix multiplication~~
+✅~~Sorting~~
+✅~~Banking~~
+Employee
+✅~~Method overloading~~
+
+
 
 <!--
 **jodave911/jodave911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
