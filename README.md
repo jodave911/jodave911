@@ -2,15 +2,15 @@
 
 I'm currently working on basic c and java programs.
 
-✅~~Star pyrmid~~
-✅~~Fibannocci series~~
-✅~~Palindrome~~
-✅~~Frequency~~
-✅~~Matrix multiplication~~
-✅~~Sorting~~
-✅~~Banking~~
-Employee
-✅~~Method overloading~~
+- ✅~~Star pyrmid~~
+- ✅~~Fibannocci series~~
+- ✅~~Palindrome~~
+- ✅~~Frequency~~
+- ✅~~Matrix multiplication~~
+- ✅~~Sorting~~
+- ✅~~Banking~~
+- Employee
+- ✅~~Method overloading~~
 
 
 
