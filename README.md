@@ -14,12 +14,14 @@ I'm an undergraduate student pursuing a B.Tech in Computer Science and Engineeri
 
 ## 💻 Technical Skills
 
+```python
 skills = {
     'Programming Languages': ['Python', 'Java', 'C', 'MySQL', 'HTML', 'CSS'],
     'AI/ML Tools': ['TensorFlow', 'PyTorch', 'Streamlit'],
     'Creative Software': ['Adobe Photoshop', 'Adobe Premiere Pro', 'DaVinci Resolve', 'Blender'],
     'Other Tools': ['ProPresenter', 'OBS Studio']
 }
+```
 
 ## 🎓 About Me
 I'm an undergraduate student pursuing a B.Tech in Computer Science and Engineering (AI & ML) at Sree Buddha College of Engineering, Kerala. I'm passionate about artificial intelligence, machine learning, and creative multimedia work.
@@ -69,9 +71,10 @@ Feel free to connect with me on:
 - ![](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&logoColor=white)
 
 
-<div align="left    ">
-  <img src="https://komarev.com/ghpvc/?username=jodave911&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=jodave911&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
