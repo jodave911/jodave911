@@ -8,6 +8,7 @@
 I'm an undergraduate student pursuing a B.Tech in Computer Science and Engineering (AI & ML) at Sree Buddha College of Engineering, Kerala. I'm passionate about artificial intelligence, machine learning, and creative multimedia work.
 
 ## 🔭 Current Focus
+- Developing a website/software
 - Exploring deep learning and computer vision applications
 - Developing AI-powered healthcare solutions
 - Creating engaging multimedia content
