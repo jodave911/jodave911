@@ -68,9 +68,8 @@ Feel free to connect with me on:
 - ![](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 - ![](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&logoColor=white)
 
----
 
-<div align="center">
+<div align="left    ">
   <img src="https://komarev.com/ghpvc/?username=jodave911&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
