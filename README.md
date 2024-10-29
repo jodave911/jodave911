@@ -1,61 +1,78 @@
-# About Me
+# Hi there! 👋 I'm Joshua David
 
-Hello! I'm [Jodave911](https://www.github.com/jodave911), a passionate developer and tech enthusiast. Welcome to my GitHub profile!
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-## 🚀 Who Am I?
+## 🎓 About Me
+I'm an undergraduate student pursuing a B.Tech in Computer Science and Engineering (AI & ML) at Sree Buddha College of Engineering, Kerala. I'm passionate about artificial intelligence, machine learning, and creative multimedia work.
 
-I am a software developer with a keen interest in building innovative solutions and exploring new technologies. I enjoy working on projects that challenge my skills and allow me to learn and grow.
+## 🔭 Current Focus
+- Exploring deep learning and computer vision applications
+- Developing AI-powered healthcare solutions
+- Creating engaging multimedia content
 
-![Developer GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
+## 💻 Technical Skills
 
-## 💻 Skills
+skills = {
+    'Programming Languages': ['Python', 'Java', 'C', 'MySQL', 'HTML', 'CSS'],
+    'AI/ML Tools': ['TensorFlow', 'PyTorch', 'Streamlit'],
+    'Creative Software': ['Adobe Photoshop', 'Adobe Premiere Pro', 'DaVinci Resolve', 'Blender'],
+    'Other Tools': ['ProPresenter', 'OBS Studio']
+}
 
-- **Languages**: Python, C, Java, HTML, CSS
-- **Frameworks**: Node.js, TensorFlow
-- **Tools**: Git, Docker, Visual Studio Code
-- **Databases**: MySQL
+## 🎓 About Me
+I'm an undergraduate student pursuing a B.Tech in Computer Science and Engineering (AI & ML) at Sree Buddha College of Engineering, Kerala. I'm passionate about artificial intelligence, machine learning, and creative multimedia work.
 
-## 🌱 Currently Learning
+## 🚀 Projects
 
-I am currently diving deeper into:
-- **Machine Learning**: Exploring algorithms and data analysis.
-- **Cloud Computing**: Familiarizing myself with AWS and Azure.
+### Diabetic Retinopathy Diagnosis Tool
+- Developed a CNN-based diagnostic tool for diabetic retinopathy.
+- Achieved 94% accuracy in prediction.
+- Built using TensorFlow and PyTorch.
+- Deployed as a web application using Streamlit.
+- [View Project](https://github.com/jodave911/Diabetic-Retinopathy-Diagnostics)
+
+## 🎨 Creative Work
+- **Media Intern at World Impact Community Church**
+  - Experience in video editing and production.
+  - Skilled in photography and graphic design.
+  - Proficient in live streaming and multimedia presentations.
+
+## 🌟 Certifications
+- **Python for Data Science** (IIT Madras, NPTEL)
+
+## 🗣️ Languages
+- English
+- Malayalam
+- Tamil
+- Hindi
 
 ## 📫 How to Reach Me
-
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/joshua-david-4b658821b/)
-- [Instagram](https://www.instagram.com/_jo_dave_/)
-- Email: joshuadavidzoe.work@gmail.com
+- Email: [joshuadavidzoe.work@gmail.com](mailto:joshuadavidzoe.work@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-david-4b658821b/)
+- GitHub: [jodave911](https://github.com/jodave911)
+- Instagram: [Instagram](https://www.instagram.com/_jo_dave_/)
 
-## 🌟 Projects
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jodave911&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jodave911&theme=radical" alt="GitHub Streak"/>
+</div>
 
-Here are a few projects I've worked on:
-- [Project 1](https://github.com/jodave911/project1): A brief description of what this project does.
-- [Project 2](https://github.com/jodave911/project2): A brief description of what this project does.
-- [Project 3](https://github.com/jodave911/project3): A brief description of what this project does.
+## 🛠️ Technologies & Tools
+- ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+- ![](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&logoColor=white)
 
-## 🎉 Fun Facts
+---
 
-- I love hiking and exploring nature.
-- I'm a big fan of sci-fi movies and books.
-- I enjoy contributing to open-source projects.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jodave911&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
-![Fun Fact GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
-
-<!--
-**jodave911/jodave911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
