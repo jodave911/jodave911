@@ -10,10 +10,10 @@ I am a software developer with a keen interest in building innovative solutions 
 
 ## 💻 Skills
 
-- **Languages**: JavaScript, Python, Java, HTML, CSS
-- **Frameworks**: React, Node.js, Express, Django
-- **Tools**: Git, Docker, Visual Studio Code, Postman
-- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Languages**: Python, C, Java, HTML, CSS
+- **Frameworks**: Node.js, TensorFlow
+- **Tools**: Git, Docker, Visual Studio Code
+- **Databases**: MySQL
 
 ## 🌱 Currently Learning
 
@@ -24,9 +24,9 @@ I am currently diving deeper into:
 ## 📫 How to Reach Me
 
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- Email: your-email@example.com
+- [LinkedIn](https://www.linkedin.com/in/joshua-david-4b658821b/)
+- [Instagram](https://www.instagram.com/_jo_dave_/)
+- Email: joshuadavidzoe.work@gmail.com
 
 ## 🌟 Projects
 
