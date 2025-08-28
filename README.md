@@ -16,7 +16,7 @@
 
 ## <div align="center">🎓 About Me</div>
 
-<div align="center"> I'm an undergraduate student pursuing a B.Tech in Computer Science and Engineering (AI & ML) at Sree Buddha College of Engineering, Kerala. I'm passionate about artificial intelligence, machine learning, and creative multimedia work. </div>
+<div align="center"> AI & ML Enthusiast | Creative Media | Storyteller Beind the Lens | I use Arch, btw </div>
 
 
 
