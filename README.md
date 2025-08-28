@@ -38,9 +38,9 @@ skills = {
 
 ## <div align="center">🔭 Current Focus</div>
 <div align="center">
-Developing a website/software
-Exploring deep learning and computer vision applications
-Developing AI-powered healthcare solutions
+Developing a website/software,
+Exploring deep learning and computer vision applications,
+Developing AI-powered healthcare solutions,
 Creating engaging multimedia content
 </div>
 
